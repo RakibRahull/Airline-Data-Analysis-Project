@@ -16,6 +16,11 @@ To analyze 24 Airlines' flight data from January 2025 to March 2026, delivering 
 10. Class Performance: What is the distribution of Total Flights and Total Revenue across the three main classes: Business, Economy, and First Class? (Assuming the buttons represent filters for these classes).
 11. Dashboard Interaction- 
 - <a href="https://github.com/RakibRahull/Airline-Data-Analysis-Project/blob/main/Airline%20Trends.PNG">Airline Trends</a>
-- <a href="https://github.com/RakibRahull/Airline-Data-Analysis-Project/blob/main/Monthly%20%26%20Weekly%20Flight%20Trends.PNG">Regional Analysis</a>
+- <a href="https://github.com/RakibRahull/Airline-Data-Analysis-Project/blob/main/Monthly%20%26%20Weekly%20Flight%20Trends.PNG">Monthly & Weekly Flight Trends</a>
+## Process
+The analysis began with meticulous data cleaning and transformation using Power Query to ensure data integrity. Key performance indicators were then calculated precisely with DAX measures before being visualized across various interactive charts. Finally, these elements were compiled into a comprehensive Power BI dashboard with dynamic slicers, enabling flexible and detailed data-driven analysis for management.
+## Dashboard
+![ Airline Trends]( https://github.com/RakibRahull/Airline-Data-Analysis-Project/blob/main/Airline%20Trends.PNG)
+![ Monthly & Weekly Flight Trends]( https://github.com/RakibRahull/Airline-Data-Analysis-Project/blob/main/Monthly%20%26%20Weekly%20Flight%20Trends.PNG)
 
 
